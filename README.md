@@ -8,3 +8,8 @@ The first one I used for a while
 
 #### Internal V2.json
 New Generation of the first Version. I may will be tweaking some little things in the future.
+
+
+### Installation
+
+Copy .json File into ~/.config/easyeffects/output and load it in EasyEffects
